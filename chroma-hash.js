@@ -56,7 +56,7 @@
                           position:   'absolute',
                           opacity:     1.0,
                           left:       position.left + width - 1,
-                          top:        position.top,
+                          top:        position.top - 2,
                           height:     height - 2 + "px",
                           width:      8 + "px",
                           margin:     0 + "px",
